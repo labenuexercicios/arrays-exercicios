@@ -12,3 +12,5 @@ console.log(arrayNumbers)
 console.log(arrayStrings)
 console.log(arrayMisto)
 
+
+
