@@ -1,4 +1,4 @@
-# Exercício 3
+    # Exercício 3
 
 Agora, vamos manipular os arrays, adicionando ou removendo informações. Para isso, crie **três** novos arrays, chamados `nomeDoArrayOriginalCopia`, e faça o que se pede abaixo nas cópias dos arrays originais;
 
