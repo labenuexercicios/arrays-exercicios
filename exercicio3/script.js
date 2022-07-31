@@ -13,11 +13,11 @@ let notebookCopia = notebook.slice()
  numerosCopia.push(11)
  console.log(`Original Array 1: ${numeros}`)
  console.log(`Copia Array 1:    ${numerosCopia}`)
-
+// Remova o último item do segundo array.Exibir o original e a cópia;
  linguagemCopia.pop(3)
  console.log(`Original Array2 : ${linguagem}`)
  console.log(`Copia Array2    : ${linguagemCopia}`)
-
+// Remova o segundo item do terceiro array. Exibir o original e a cópia;
  notebookCopia.splice(1,1)
  console.log(`Original Array3 :${notebook}`)
  console.log(`Copia Array3     :${notebookCopia}`)
