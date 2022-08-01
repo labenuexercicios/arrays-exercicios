@@ -7,7 +7,7 @@ let notebook = [2022,"LABENU", 3+4>11 ]
 // copia dos array 
 let numerosCopia = numeros.slice()
 let linguagemCopia = linguagem.slice()
-let notebookCopia = notebook.slice()
+let NotebookCopia = notebook.slice()
 
 // adicionar um item number ao primeiro array
  numerosCopia.push(11)
@@ -20,6 +20,6 @@ let notebookCopia = notebook.slice()
 // Remova o segundo item do terceiro array. Exibir o original e a cópia;
  notebookCopia.splice(1,1)
  console.log(`Original Array3 :${notebook}`)
- console.log(`Copia Array3     :${notebookCopia}`)
+ console.log(`Copia Array3     :${NotebookCopia}`)
 
 
