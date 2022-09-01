@@ -5,7 +5,6 @@ arrayNumero.push(500)
 //const arraySemOUltimo = arrayString.pop()
 arrayString.pop()
 
-
 console.log(arrayNumero)
 console.log(arrayString)
 console.log(arrayBagunca.splice(0,1), arrayBagunca.splice(1,1))
