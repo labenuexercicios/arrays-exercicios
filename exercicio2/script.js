@@ -33,12 +33,3 @@ console.log(`Existe o número 6 no array? `+ numeros.includes(6))
 
 tudoMisturado.includes("terno") //false
 console.log(`Existe a palavra "terno" no array? `+ tudoMisturado.includes("terno"))
-
-
-
-
-
-
-
-
-
