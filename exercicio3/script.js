@@ -6,6 +6,7 @@ const nomeDoArrayOriginal03 = ['alface', 'cebola', 'batata']
 const nomeDoArrayOriginalCopia = nomeDoArrayOriginal01.slice()
 
 const nomeDoArrayOriginal02Copia = [...nomeDoArrayOriginal02]
+//const nomeDoArrayOriginal02Copia = nomeDoArrayOriginal02.slice
 
 const nomeDoArrayOriginal03Copia = [...nomeDoArrayOriginal03]
 
