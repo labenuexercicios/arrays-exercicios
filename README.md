@@ -1,4 +1,4 @@
-# Arrays - Exxercício
+# Arrays - Exercício
 
 ### Setup do projeto no Git
 
