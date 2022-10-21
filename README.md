@@ -1,4 +1,4 @@
-# A010 - Arrays
+# Arrays - Exxercício
 
 ### Setup do projeto no Git
 
