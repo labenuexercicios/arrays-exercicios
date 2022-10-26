@@ -5,3 +5,5 @@ Agora, vamos manipular os arrays, adicionando ou removendo informações. Para i
 - Adicione um item `number` ao início do primeiro array. Utilize `console.log()` para exibir o original e a cópia;
 - Remova o último item do segundo array. Utilize `console.log()` para exibir o original e a cópia;
 - Remova o segundo item do terceiro array. Utilize `console.log()` para exibir o original e a cópia;
+
+
