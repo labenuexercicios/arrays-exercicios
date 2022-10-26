@@ -9,7 +9,7 @@
 
 
 
-const minhaString = "Eu não sou supersticioso, mas sou um pouco ________.      ";
+
 
 
 const numeros = [5, 2, 8, 4, 1, 7, 3, 9]
