@@ -4,7 +4,7 @@
 - Imprima o primeiro item do primeiro array, o segundo item do segundo array, e o terceiro item do terceiro array;
 - Verifique se um item está incluído no primeiro array e depois no terceiro array e imprima o resultado destas verificações no console.log(). A primeira impressão deve retornar um booleano true e a segunda deve retornar um booleano false. 
  */
-
+ 
 
 const arrayNum = [5,6,2,7]
 const arrayString = ["Warrior", "Mage", "Healer", "Archer"]
@@ -20,3 +20,4 @@ console.log(arrayRandom[2])
 
 console.log(arrayNum.includes(5))
 console.log(arrayRandom.includes("Mage"))
+
