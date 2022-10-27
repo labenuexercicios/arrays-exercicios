@@ -11,3 +11,4 @@ const arrayRandom = [5, "Gunslinger", 20===10]
 console.log(arrayNum)
 console.log(arrayString)
 console.log(arrayRandom)
+
