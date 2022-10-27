@@ -10,9 +10,9 @@ console.log("quantidade 1 array:", arrayNumero.length)
 console.log("quantidade 2 array:", arrayString.length)
 console.log("quantidade 3 array:", arrayVariado.length)
 
-console.log("primeiro item do 1 array:", arrayNumero[1])
-console.log("segundo item do 2 array:", arrayString[2])
-console.log("terceiro item do 3 array:", arrayVariado[3])
+console.log("primeiro item do 1 array:", arrayNumero[0])
+console.log("segundo item do 2 array:", arrayString[1])
+console.log("terceiro item do 3 array:", arrayVariado[2])
 
 console.log(arrayNumero.includes(1))
 console.log(arrayVariado.includes(20))

@@ -6,17 +6,17 @@ const arrayNumeroCopia = arrayNumero.slice()
 const arrayStringCopia = arrayString.slice()
 const arrayVariadoCopia = arrayVariado.slice()
 
-arrayNumero.unshift(27)
+arrayNumeroCopia.unshift(27)
 
 console.log("original:", arrayNumero)
 console.log("copia:", arrayNumeroCopia)
 
-arrayString.pop()
+arrayStringCopia.pop()
 
 console.log("original:", arrayString)
 console.log("copia:", arrayStringCopia)
 
-arrayVariado.splice(1, 1)
+arrayVariadoCopia.splice(1, 1)
 
 console.log("original:", arrayVariado)
 console.log("copia:", arrayVariadoCopia)
