@@ -7,7 +7,7 @@ Agora, vamos manipular os arrays, adicionando ou removendo informações. Para i
 - Remova o segundo item do terceiro array. Utilize `console.log()` para exibir o original e a cópia;
 
  */
-
+ 
 const arrayNum = [5,6,2,7]
 const arrayString = ["Warrior", "Mage", "Healer", "Archer"]
 const arrayRandom = [5, "Gunslinger", 20===10]
@@ -40,7 +40,7 @@ console.log(arrayRandom)
 console.log(copiaArrayRandom)
 
 
-
+ 
 
 
 
@@ -49,4 +49,4 @@ console.log(copiaArrayRandom)
 //Como criar copia independente
 const copiaArrayString = arrayString.slice()
 console.log(copiaArrayString)
-console.log(arrayString) */
+console.log(arrayString) */ 
