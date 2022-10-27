@@ -7,8 +7,9 @@ Imprima cada um dos arrays acima, utilizando `console.log()` */
 const arrayNum = [5,6,2,7]
 const arrayString = ["Warrior", "Mage", "Healer", "Archer"]
 const arrayRandom = [5, "Gunslinger", 20===10]
-
+  
 console.log(arrayNum)
 console.log(arrayString)
 console.log(arrayRandom)
 
+  
