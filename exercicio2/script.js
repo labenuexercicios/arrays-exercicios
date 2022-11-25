@@ -1,5 +1,3 @@
-// const minhaString = "Eu não sou supersticioso, mas sou um pouco ________.      ";
-
 
 // Com os arrays criados, agora vamos observar os arrays. Faça o que se pede abaixo, utilizando `console.log()`:
 const minhaLista = [ "gato","cachorro","pássaro" ]

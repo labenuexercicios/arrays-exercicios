@@ -7,10 +7,14 @@ const nomeDoArrayOriginalCopia3 = [1, 2, 3, 4]
 
 // - Adicione um item `number` ao início do primeiro array. Utilize `console.log()` para exibir o original e a cópia;
 nomeDoArrayOriginalCopia1.unshift(0)
-
-// - Remova o último item do segundo array. Utilize `console.log()` para exibir o original e a cópia;
 console.log(nomeDoArrayOriginalCopia1)
 console.log(nomeDoArrayOriginalCopia2)
+
+// - Remova o último item do segundo array. Utilize `console.log()` para exibir o original e a cópia;
+nomeDoArrayOriginalCopia2.splice(3,1)
+console.log(nomeDoArrayOriginalCopia1)
+console.log(nomeDoArrayOriginalCopia2)
+
 // - Remova o segundo item do terceiro array. Utilize `console.log()` para exibir o original e a cópia;
 nomeDoArrayOriginalCopia3.splice(2,1) 
 console.log(nomeDoArrayOriginalCopia3)
