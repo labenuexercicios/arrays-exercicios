@@ -1,1 +1,18 @@
-const minhaString = "Eu não sou supersticioso, mas sou um pouco ________.      ";
+const arrayNumero = [9,1,2,6,4,5,8]
+const arrayString = ["miguel", "gica", "anime"]
+const arrayVariado = ["one piece", 14, true]
+
+console.log(arrayNumero)
+console.log(arrayString)
+console.log(arrayVariado)
+
+console.log("quantidade 1 array:", arrayNumero.length)
+console.log("quantidade 2 array:", arrayString.length)
+console.log("quantidade 3 array:", arrayVariado.length)
+
+console.log("primeiro item do 1 array:", arrayNumero[0])
+console.log("segundo item do 2 array:", arrayString[1])
+console.log("terceiro item do 3 array:", arrayVariado[2])
+
+console.log(arrayNumero.includes(1))
+console.log(arrayVariado.includes(20))
