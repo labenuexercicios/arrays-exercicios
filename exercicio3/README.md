@@ -5,11 +5,11 @@ Copie cada um dos arrays originais para sua respectiva cópia usando o método `
 
 Faça o que se pede abaixo nas **cópias** dos arrays originais:
 
-a) Adicione um item `number` ao **início** do primeiro array. Utilize `console.log()` para exibir o original e a cópia.
+a) Crie uma função que recebe o primeiro array como parâmetro e adicione um item `number` ao **início** do primeiro array. Utilize `console.log()` para imprimir o original e a cópia.
 
-b) Remova o **último item** do segundo array. Utilize `console.log()` para exibir o original e a cópia.
+b) Crie uma função que recebe o segundo array por parâmetro e remova o **último item** do segundo array. Utilize `console.log()` para exibir o original e a cópia.
 
-c) Remova o **segundo item** do terceiro array. Utilize `console.log()` para exibir o original e a cópia.
+c) Crie uma função que recebe por parâmetro o terceiro array e remova o **segundo item** do terceiro array. Utilize `console.log()` para exibir o original e a cópia.
 
 
 **Obs:** copie os arrays criados no exercício 1 para dentro do arquivo *script.js* do exercício 3.
